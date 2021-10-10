@@ -1,5 +1,5 @@
 # DBC: Distance-aware Offset Bin Classification Network for Accurate Object Detection
-*DBC is an extend version of our previous work BC (Offset Bin Classification Network for Accurate Object Detection) published at CVPR2020.
+DBC is an extend version of our previous work BC (Offset Bin Classification Network for Accurate Object Detection) published at CVPR2020.  
 @inproceedings{qiu2020offset,
 	title={Offset bin classification network for accurate object detection},
 	author={Qiu, Heqian and Li, Hongliang and Wu, Qingbo and Shi, Hengcan},
