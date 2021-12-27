@@ -1,4 +1,4 @@
-# DBC: Distance-aware Offset Bin Classification Network for Accurate Object Detection
+# DBC: Learning Offset Probability Distribution for Accurate Object Detection
 DBC is an extend version of our previous work BC (Offset Bin Classification Network for Accurate Object Detection) published at CVPR2020.  
 We will release the code and related models as soon as possible, please wait...  
 ## Prerequisites
